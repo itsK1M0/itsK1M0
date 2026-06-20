@@ -1,66 +1,64 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B0000&center=true&vCenter=true&width=600&lines=root%40k1m0%3A~%23+whoami;security+researcher+%2F%2F+student;curiosity+first.+ethics+always." alt="Typing SVG" />
+# Oussama El Gourjt
+
+**Cybersecurity Student · DevSecOps & Security Automation**
+
+Rabat, Morocco — [oussamaelgourjt1@gmail.com](mailto:oussamaelgourjt1@gmail.com)
 
 </div>
 
 <br>
 
-<table align="center">
-<tr>
-<td>
+I build the systems that catch problems before they ship, and I break things on purpose to find out where they'd fail in production. Most of what's here came out of one self-built lab: a CI/CD pipeline wired directly into a real SOC stack, so a failed security scan doesn't just sit in a log — it becomes an alert, gets triaged, and shows up on a dashboard.
 
-```
-> id
-uid=0(kimo) gid=0(curious) groups=security,devsecops,builder
-
-> status
-[+] Cybersecurity student — still learning, still hands-on
-[+] Not a professional yet — every repo here is a step, not a finished product
-[+] Driven by impact: find what's broken before someone worse does
-```
-
-</td>
-</tr>
-</table>
+I'm still a student. Everything below is hands-on work — labs, an internship, personal builds — not polished production software. I'd rather show real work with rough edges than a portfolio that oversells.
 
 <br>
 
-### `// currently`
+## What I've built
 
-- 🎯 Building **Secure-by-Design CI/CD** — a self-hosted pipeline with SAST, secret scanning, and a full SOC stack (TheHive, Cortex, MISP, ELK) wired to auto-alert on failures
-- 🩸 Practicing offensive security — buffer overflows, exploitation labs, occasional CTFs
-- 🔍 Hunting bugs as a beginner — early-stage, learning the real-world ambiguity that labs don't teach
-- 🛡️ Defensive side too — Wazuh SIEM, Snort IDS, MITRE CALDERA attack simulation
+**Secure-by-Design CI/CD Pipeline with Integrated SOC Automation**
+A self-hosted GitHub Actions runner with automated SAST (Semgrep) and secret scanning (Gitleaks) enforcing quality gates on every run. Failures don't just fail the build — they auto-create enriched alerts in TheHive via Cortex analyzers, and every pipeline run is visible on a live Kibana dashboard fed by Filebeat. Three-VM lab, fully wired end to end.
 
-<br>
+**Security Monitoring & Attack Simulation**
+Wazuh SIEM deployed across Linux and Windows endpoints, tested against real attack chains simulated with MITRE CALDERA — built to see what actually gets detected, not just what's configured.
 
-### `// stack`
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8B0000)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=8B0000)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8B0000)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8B0000)
-![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=8B0000)
-![Elastic](https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elasticsearch&logoColor=8B0000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=8B0000)
-
-</div>
+**Intrusion Detection — Snort**
+Network-level threat detection, paired with simulated attacks to validate what the ruleset actually catches.
 
 <br>
 
-### `// note`
+## Internship — IFGICT (March–April 2026)
 
-> I'm a student, not a professional — yet. Everything in this profile is real hands-on work
-> (labs, internship, personal projects), not production-grade software. If something looks
-> rough, it's because I built it to learn, not to impress. That's the point.
+Full OWASP-based security audit on a simulated banking application, covering the complete offensive and defensive cycle:
+
+- Exploited Stored XSS, SQL Injection, Broken Access Control, and CSRF — each with a documented proof of concept
+- Diagnosed session management and authentication flaws, then wrote remediation roadmaps: parameterized queries, RBAC models, ModSecurity rules
+- Ran a full security headers audit (HSTS, CSP, X-Frame-Options) and flagged outdated dependencies with concrete fixes
+
+<br>
+
+## Stack
+
+| | |
+|---|---|
+| **Security** | OWASP ZAP, Metasploit, Nmap, Snort |
+| **SIEM / SOC** | Wazuh, ELK Stack, TheHive, Cortex, MISP, Splunk fundamentals |
+| **Languages** | Python, Bash |
+| **Infra** | Docker, GitHub Actions, Hypervisor (Type 1/2) |
+| **OS** | Linux, Windows |
+
+<br>
+
+## Certifications
+
+IBM — Cybersecurity Fundamentals · Cisco NetAcad — Introduction to Cybersecurity, Python Essentials 1 · TryHackMe — Pre-Security
 
 <br>
 
 <div align="center">
 
-<sub>🔻 r0gue_kimo</sub>
+<sub>Always building the next lab. Open to internships, junior roles, and collaboration.</sub>
 
 </div>
