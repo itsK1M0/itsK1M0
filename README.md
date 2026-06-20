@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**itsK1M0/itsK1M0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B0000&center=true&vCenter=true&width=600&lines=root%40k1m0%3A~%23+whoami;security+researcher+%2F%2F+student;curiosity+first.+ethics+always." alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<table align="center">
+<tr>
+<td>
+
+```
+> id
+uid=0(kimo) gid=0(curious) groups=security,devsecops,builder
+
+> status
+[+] Cybersecurity student — still learning, still hands-on
+[+] Not a professional yet — every repo here is a step, not a finished product
+[+] Driven by impact: find what's broken before someone worse does
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### `// currently`
+
+- 🎯 Building **Secure-by-Design CI/CD** — a self-hosted pipeline with SAST, secret scanning, and a full SOC stack (TheHive, Cortex, MISP, ELK) wired to auto-alert on failures
+- 🩸 Practicing offensive security — buffer overflows, exploitation labs, occasional CTFs
+- 🔍 Hunting bugs as a beginner — early-stage, learning the real-world ambiguity that labs don't teach
+- 🛡️ Defensive side too — Wazuh SIEM, Snort IDS, MITRE CALDERA attack simulation
+
+<br>
+
+### `// stack`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8B0000)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=8B0000)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8B0000)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8B0000)
+![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=8B0000)
+![Elastic](https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elasticsearch&logoColor=8B0000)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=8B0000)
+
+</div>
+
+<br>
+
+### `// note`
+
+> I'm a student, not a professional — yet. Everything in this profile is real hands-on work
+> (labs, internship, personal projects), not production-grade software. If something looks
+> rough, it's because I built it to learn, not to impress. That's the point.
+
+<br>
+
+<div align="center">
+
+<sub>🔻 r0gue_kimo</sub>
+
+</div>
