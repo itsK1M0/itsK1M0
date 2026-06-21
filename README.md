@@ -28,7 +28,7 @@ uid=0(oussama) gid=0(curious) groups=security,devsecops,builder
 
 <div align="center">
 
-&nbsp;`[student]`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[security]`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[builder]`
+&nbsp;`>student`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`>security`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`>builder`
 
 </div>
 
