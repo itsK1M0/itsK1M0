@@ -12,7 +12,7 @@
 
 ```
 > id
-uid=0(kimo) gid=0(curious) groups=security,devsecops,builder
+uid=0(oussama) gid=0(curious) groups=security,devsecops,builder
 
 > status
 [+] Cybersecurity student — still learning, still hands-on
@@ -28,25 +28,18 @@ uid=0(kimo) gid=0(curious) groups=security,devsecops,builder
 
 ### `// in motion`
 
-- Turning curiosity into discipline
-- Learning security through building, observing, and questioning
-- Exploring how trust is established, managed, and abused in digital systems
-- One step closer to understanding the bigger picture every day
+### `// in motion`
+
+Lately, my time has been split between understanding how things break and how they're defended. That might mean reviewing systems, improving visibility, experimenting with infrastructure, or analyzing simulated attacks. The tools change; the goal stays the same: understand what's happening beneath the surface.
 
 
 <br>
 
-### `// stack`
+### `// territory`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8B0000)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=8B0000)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8B0000)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=8B0000)
-![Wazuh](https://img.shields.io/badge/Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=8B0000)
-![Elastic](https://img.shields.io/badge/Elastic-000000?style=for-the-badge&logo=elasticsearch&logoColor=8B0000)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=8B0000)
+Mostly the space where code meets attack surface — web apps, networks, the systems built to watch them.
 
 </div>
 
@@ -62,6 +55,6 @@ uid=0(kimo) gid=0(curious) groups=security,devsecops,builder
 
 <div align="center">
 
-<sub>🔻 r0gue_kimo</sub>
+<sub>🔻 kimo</sub>
 
 </div>
