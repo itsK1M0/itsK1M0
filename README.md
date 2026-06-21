@@ -26,7 +26,6 @@ uid=0(oussama) gid=0(curious) groups=security,devsecops,builder
 
 <br>
 
-### `// in motion`
 
 ### `// in motion`
 
@@ -37,11 +36,9 @@ Lately, my time has been split between understanding how things break and how th
 
 ### `// territory`
 
-<div align="center">
-
-Mostly the space where code meets attack surface — web apps, networks, the systems built to watch them.
-
-</div>
+> scope
+Mostly the space where code meets attack surface — web apps, networks,
+the systems built to watch them.
 
 <br>
 
