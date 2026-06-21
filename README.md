@@ -28,7 +28,7 @@ uid=0(oussama) gid=0(curious) groups=security,devsecops,builder
 
 <div align="center">
 
-&nbsp;`// in motion`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`// territory`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`// note`
+&nbsp;`[student]`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[security]`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`[builder]`
 
 </div>
 
