@@ -26,27 +26,61 @@ uid=0(oussama) gid=0(curious) groups=security,devsecops,builder
 
 <br>
 
-
 ### `// in motion`
 
-Lately, my time has been split between understanding how things break and how they're defended. That might mean reviewing systems, improving visibility, experimenting with infrastructure, or analyzing simulated attacks. The tools change; the goal stays the same: understand what's happening beneath the surface.
+<table align="center">
+<tr>
+<td>
 
+```
+> focus
+split between offense and defense — reviewing systems, improving
+visibility, experimenting with infrastructure, analyzing simulated
+attacks. the tools change, the goal doesn't: understand what's
+happening beneath the surface.
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ### `// territory`
 
+<table align="center">
+<tr>
+<td>
+
+```
 > scope
-Mostly the space where code meets attack surface — web apps, networks,
-the systems built to watch them.
+mostly the space where code meets attack surface — web apps,
+networks, the systems built to watch them.
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ### `// note`
 
-> I'm a student, not a professional — yet. Everything in this profile is real hands-on work
-> (labs, internship, personal projects), not production-grade software. If something looks
-> rough, it's because I built it to learn, not to impress. That's the point.
+<table align="center">
+<tr>
+<td>
+
+```
+> disclaimer
+i'm a student, not a professional — yet. everything here is real
+hands-on work (labs, internship, personal projects), not
+production-grade software. if something looks rough, it's because
+i built it to learn, not to impress. that's the point.
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
