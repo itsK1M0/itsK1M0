@@ -26,61 +26,22 @@ uid=0(oussama) gid=0(curious) groups=security,devsecops,builder
 
 <br>
 
-### `// in motion`
+<div align="center">
 
-<table align="center">
-<tr>
-<td>
+&nbsp;`// in motion`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`// territory`&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`// note`
 
-```
-> focus
-split between offense and defense — reviewing systems, improving
-visibility, experimenting with infrastructure, analyzing simulated
-attacks. the tools change, the goal doesn't: understand what's
-happening beneath the surface.
-```
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
+
+### `// in motion`
+Split between offense and defense — reviewing systems, improving visibility, experimenting with infrastructure, analyzing simulated attacks. The tools change, the goal doesn't: understand what's happening beneath the surface.
 
 ### `// territory`
-
-<table align="center">
-<tr>
-<td>
-
-```
-> scope
-mostly the space where code meets attack surface — web apps,
-networks, the systems built to watch them.
-```
-
-</td>
-</tr>
-</table>
-
-<br>
+Mostly the space where code meets attack surface — web apps, networks, the systems built to watch them.
 
 ### `// note`
-
-<table align="center">
-<tr>
-<td>
-
-```
-> disclaimer
-i'm a student, not a professional — yet. everything here is real
-hands-on work (labs, internship, personal projects), not
-production-grade software. if something looks rough, it's because
-i built it to learn, not to impress. that's the point.
-```
-
-</td>
-</tr>
-</table>
+> I'm a student, not a professional — yet. Everything here is real hands-on work (labs, internship, personal projects), not production-grade software. If something looks rough, it's because I built it to learn, not to impress. That's the point.
 
 <br>
 
