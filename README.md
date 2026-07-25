@@ -12,7 +12,7 @@ I'm building my career toward **IT infrastructure, cybersecurity, and cloud engi
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=firefox&logoColor=white)](https://oussama.itskimo.workers.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamaelgourjt/)
-[![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=white)](https://oussama.itskimo.workers.dev/#contact)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lastkimo)
 
 <br>
