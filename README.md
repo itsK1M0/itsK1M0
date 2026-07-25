@@ -15,8 +15,6 @@ I'm building my career toward **IT infrastructure, cybersecurity, and cloud engi
 [![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lastkimo)
 
-![Profile Views](https://komarev.com/ghpvc/?username=itsK1M0&color=2E3440&style=flat-square&label=Profile+Views)
-
 </div>
 
 <br>
@@ -87,28 +85,29 @@ My long-term goal is to grow into a skilled **infrastructure and cybersecurity e
 <br>
 
 ## GitHub Stats
-
+ 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsK1M0&show_icons=true&theme=default&hide_border=true&title_color=2E3440&icon_color=0A66C2&text_color=333333" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsK1M0&layout=compact&theme=default&hide_border=true&title_color=2E3440&text_color=333333" width="38%" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=itsK1M0&theme=default&hide_border=true&background=FFFFFF&ring=0A66C2&fire=0A66C2&currStreakLabel=2E3440" width="60%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsK1M0&theme=minimal&hide_border=true" width="90%" />
-
+<table>
+<tr>
+<td valign="top" width="60%">
+<img src="https://github-readme-stats.vercel.app/api?username=itsK1M0&show_icons=true&theme=default&hide_border=true&hide_title=false&title_color=2E3440&icon_color=0A66C2&text_color=333333&bg_color=FFFFFF&rank_icon=percentile" width="100%" />
+</td>
+<td valign="top" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsK1M0&layout=compact&theme=default&hide_border=true&title_color=2E3440&text_color=333333&bg_color=FFFFFF&langs_count=8" width="100%" />
+</td>
+</tr>
+</table>
+<img src="https://streak-stats.demolab.com?user=itsK1M0&theme=default&hide_border=true&background=FFFFFF&ring=0A66C2&fire=0A66C2&currStreakLabel=2E3440&sideNums=2E3440&sideLabels=2E3440&dates=6B7280" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsK1M0&theme=react-dark&bg_color=FFFFFF&color=2E3440&line=0A66C2&point=2E3440&area=true&hide_border=true" width="95%" />
 </div>
-
 <!--
 Optional: contribution snake animation.
 Requires a GitHub Action (Platane/snk) added to this repo to generate the SVG.
 Once set up, uncomment below:
 <img src="https://raw.githubusercontent.com/itsK1M0/itsK1M0/output/github-contribution-grid-snake.svg" width="100%" />
 -->
+ 
+<br>
 
 <br>
 
