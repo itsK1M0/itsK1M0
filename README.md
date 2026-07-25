@@ -22,7 +22,7 @@ I'm building my career toward **IT infrastructure, cybersecurity, and cloud engi
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0000&height=100&section=header" width="100%" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2000&pause=500&color=4B0000&center=true&vCenter=true&width=600&height=30&lines=01110010+01101111+01101111+01110100" alt="typing" />
 </div>
 
 <br>
