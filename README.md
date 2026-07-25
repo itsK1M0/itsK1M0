@@ -5,9 +5,8 @@
 ### IT Support · Aspiring Infrastructure & Cybersecurity Engineer
 
 <br>
-<!--
+
 I'm building my career toward **IT infrastructure, cybersecurity, and cloud engineering** — currently pursuing my first professional IT role while continuously leveling up through hands-on labs and real projects.
--->
 
 <br>
 
@@ -31,12 +30,13 @@ I'm based in Morocco and currently applying for roles in **IT Help Desk, Technic
 - **Cloud & Modern Infrastructure** — foundational cloud concepts, virtualization
 - **Web Development** — React, Firebase, and the modern JS ecosystem
 
-My long-term goal is to grow into a skilled **infrastructure and cybersecurity engineer**, working toward opportunities in Germany. I learn primarily through structured coursework (Cisco Networking Academy) and hands-on labs, and I document real projects as I go rather than collecting certificates I haven't earned.
+My long-term goal is to grow into a skilled **infrastructure and cybersecurity engineer**, working toward opportunities in *******. I learn primarily through structured coursework and hands-on labs, and I document real projects as I go rather than collecting certificates I haven't earned.
 
 <br>
 
 ## Tech Stack
 
+<!--
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
@@ -44,18 +44,19 @@ My long-term goal is to grow into a skilled **infrastructure and cybersecurity e
 **Backend**
 
 <img src="https://skillicons.dev/icons?i=firebase,nodejs" />
+-->
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=js,python,c" />
+<img src="https://skillicons.dev/icons?i=python,bash,powershell" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,vim,github,vscode," />
 
 **Systems & IT Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=windows,linux" />
+<img src="https://skillicons.dev/icons?i=windows,linux,arch,kubernetes," />
 
 <div>
 <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
@@ -78,7 +79,6 @@ My long-term goal is to grow into a skilled **infrastructure and cybersecurity e
 
 ## Current Focus
 
-- 🇩🇪 Learning German — A0 → targeting B1 by end of 2026
 - 📡 Cisco Networking Academy — Introduction to Cybersecurity, Introduction to Modern AI, Splunk: The Art of Investigation
 - 🔐 Building practical SOC / SIEM / network security skills through labs
 - 💻 Applying for IT Help Desk / Technical Support roles
@@ -160,7 +160,6 @@ A custom-built TCP port scanner written from scratch to understand how network r
 ## Learning Journey
 
 **Currently Learning**
-- German (targeting B1)
 - Cisco Networking Academy coursework, moving toward CCNA
 - SOC fundamentals, SIEM concepts, Splunk, Wireshark
 - Windows/Linux administration, Active Directory, Microsoft 365
@@ -192,7 +191,7 @@ A custom-built TCP port scanner written from scratch to understand how network r
 
 ## A Few Things About Me
 
-- I'm always learning something new — currently splitting focus between networking, security, and German.
+- I'm always learning something new — currently splitting focus between networking, security, and ******.
 - I enjoy solving technical problems methodically rather than by guesswork.
 - I prefer building real, working projects over collecting theory.
 - Long-term, I'm working toward an international career in infrastructure and cybersecurity.
