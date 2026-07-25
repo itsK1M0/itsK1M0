@@ -17,12 +17,12 @@ I'm building my career toward **IT infrastructure, cybersecurity, and cloud engi
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Oussama+El+Gourjt;Aspiring+Infrastructure+%26+Cybersecurity+Engineer;Building+secure%2C+scalable+systems...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4B0000&center=true&vCenter=true&width=600&lines=whoami;Oussama+El+Gourjt;Aspiring+Infrastructure+%26+Cybersecurity+Engineer;Building+secure%2C+scalable+systems...)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4B0000&height=3&section=header" width="100%" />
 </div>
 
 <br>
@@ -136,9 +136,8 @@ I believe in learning by doing, combining structured coursework with hands-on la
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=firefox&logoColor=white)](https://oussama.itskimo.workers.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamaelgourjt/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsK1M0)
 [![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamaelgourjt/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lastkimo)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/itsk1m0)
 [![Repositories](https://img.shields.io/badge/See%20all%20repositories-2E3440?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsK1M0?tab=repositories)
