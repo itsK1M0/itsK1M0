@@ -136,7 +136,7 @@ I believe in learning by doing, combining structured coursework with hands-on la
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=firefox&logoColor=white)](https://oussama.itskimo.workers.dev)
-[![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=white)](https://oussama.itskimo.workers.dev/#contact)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamaelgourjt/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lastkimo)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/itsk1m0)
