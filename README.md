@@ -5,8 +5,9 @@
 ### IT Support · Aspiring Infrastructure & Cybersecurity Engineer
 
 <br>
-
+<!--
 I'm building my career toward **IT infrastructure, cybersecurity, and cloud engineering** — currently pursuing my first professional IT role while continuously leveling up through hands-on labs and real projects.
+-->
 
 <br>
 
