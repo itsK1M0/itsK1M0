@@ -21,14 +21,18 @@ I'm building my career toward **IT infrastructure, cybersecurity, and cloud engi
 
 ## About Me
 
-I'm based in Morocco and currently applying for roles in **IT Help Desk, Technical Support, and IT Support Engineering**, while building a strong technical foundation in:
+I'm based in Morocco and currently building a strong foundation in Information Technology, with a focus on infrastructure, networking, systems administration, and cybersecurity.
+
+My current learning includes:
 
 - **Systems & Networking** — Windows, Linux, Active Directory, DNS/DHCP, TCP/IP, Microsoft 365
+- **Networking** — TCP/IP, DNS, DHCP, network troubleshooting, and Cisco fundamentals
 - **Cybersecurity** — SOC fundamentals, SIEM concepts, network security, incident response
-- **Cloud & Modern Infrastructure** — foundational cloud concepts, virtualization
-- **Web Development** — React, Firebase, and the modern JS ecosystem
+- **Cloud & Modern Infrastructure** — foundational cloud computing concepts, virtualization, and infrastructure best practices
 
-My long-term goal is to grow into a skilled **infrastructure and cybersecurity engineer**, working toward opportunities in *******. I learn primarily through structured coursework and hands-on labs, and I document real projects as I go rather than collecting certificates I haven't earned.
+My long-term goal is to become a skilled Infrastructure and Cybersecurity Engineer, contributing to secure, scalable, and resilient IT environments while working toward opportunities in Germany.
+
+I believe in learning by doing, combining structured coursework with hands-on labs and real-world projects. Rather than collecting certifications I haven't earned, I focus on developing practical skills and documenting my progress through projects and continuous learning.
 
 <br>
 
@@ -77,10 +81,11 @@ My long-term goal is to grow into a skilled **infrastructure and cybersecurity e
 
 ## Current Focus
 
-- 📡 Cisco Networking Academy — Introduction to Cybersecurity, Introduction to Modern AI, Splunk: The Art of Investigation
-- 🔐 Building practical SOC / SIEM / network security skills through labs
-- 💻 Applying for IT Help Desk / Technical Support roles
-- ⚛️ Building projects with React and Firebase
+- 📡 Networking & Infrastructure — Cisco Networking Academy, networking fundamentals, TCP/IP, DNS, DHCP, and troubleshooting
+- 🔐 Cybersecurity — SOC fundamentals, SIEM concepts, Splunk, Wireshark, and security monitoring through hands-on labs
+- 🖥️ Systems Administration — Windows, Linux, Active Directory, and Microsoft 365 fundamentals
+- ☁️ Cloud & Modern Infrastructure — exploring cloud concepts, virtualization, and secure infrastructure practices
+- 📚 Continuous Learning — building practical skills through structured courses, labs, and real-world projects
 
 <br>
 
@@ -166,7 +171,7 @@ A custom-built TCP port scanner written from scratch to understand how network r
 
 **Future Goals**
 - CCNA certification
-- CompTIA Security+
+- CompTIA Security+ & CySA+
 - Linux system administration
 - SOC Analyst role
 - Cloud engineering fundamentals (Azure / AWS)
@@ -186,16 +191,6 @@ A custom-built TCP port scanner written from scratch to understand how network r
 
 </div>
 
-<br>
-
-## A Few Things About Me
-
-- I'm always learning something new — currently splitting focus between networking, security, and ******.
-- I enjoy solving technical problems methodically rather than by guesswork.
-- I prefer building real, working projects over collecting theory.
-- Long-term, I'm working toward an international career in infrastructure and cybersecurity.
-
-<br>
 
 <div align="center">
 <sub>Thanks for stopping by — always open to connecting with people in IT, networking, and security.</sub>
