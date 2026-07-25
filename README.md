@@ -15,6 +15,14 @@ I'm building my career toward **IT infrastructure, cybersecurity, and cloud engi
 [![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lastkimo)
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=whoami;Oussama+El+Gourjt;Aspiring+Infrastructure+%26+Cybersecurity+Engineer;Building+secure%2C+scalable+systems...)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF41&height=3&section=header" width="100%" />
 </div>
 
 <br>
@@ -102,63 +110,8 @@ I believe in learning by doing, combining structured coursework with hands-on la
 </td>
 </tr>
 </table>
-<img src="https://streak-stats.demolab.com?user=itsK1M0&theme=default&hide_border=true&background=FFFFFF&ring=0A66C2&fire=0A66C2&currStreakLabel=2E3440&sideNums=2E3440&sideLabels=2E3440&dates=6B7280" width="70%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsK1M0&theme=react-dark&bg_color=FFFFFF&color=2E3440&line=0A66C2&point=2E3440&area=true&hide_border=true" width="95%" />
 </div>
-<!--
-Optional: contribution snake animation.
-Requires a GitHub Action (Platane/snk) added to this repo to generate the SVG.
-Once set up, uncomment below:
-<img src="https://raw.githubusercontent.com/itsK1M0/itsK1M0/output/github-contribution-grid-snake.svg" width="100%" />
--->
  
-<br>
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**[Google Rapid Response Server](https://github.com/itsK1M0/Google-Rapid-Response-Server)**
-Incident response framework setup and configuration — hands-on work with a real digital forensics/incident response (DFIR) toolset.
-`Shell`
-
-</td>
-<td width="50%">
-
-**[Elasticsearch & Kibana 9.x Setup](https://github.com/itsK1M0/Install-Elasticsearch-and-Kibana-9.x)**
-Documented installation and configuration of the Elastic Stack on Ubuntu Server 24 LTS — the monitoring backbone for SOC-style log analysis.
-`Shell`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[Buffer Overflow Lab](https://github.com/itsK1M0/Buffer-Overflow)**
-Windows buffer overflow exploitation lab using Vulnserver and Immunity Debugger — practical exploration of memory corruption fundamentals.
-`Python`
-
-</td>
-<td width="50%">
-
-**[Python Port Scanner](https://github.com/itsK1M0/Python-Port-Scanner)**
-A custom-built TCP port scanner written from scratch to understand how network reconnaissance tools work under the hood.
-`Python`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![More Projects](https://img.shields.io/badge/See%20all%20repositories-2E3440?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsK1M0?tab=repositories)
-
-</div>
-
 <br>
 
 ## Learning Journey
@@ -182,12 +135,13 @@ A custom-built TCP port scanner written from scratch to understand how network r
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=firefox&logoColor=white)](https://oussama.itsk1m0.workers.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E3440?style=for-the-badge&logo=firefox&logoColor=white)](https://oussama.itskimo.workers.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussamaelgourjt/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsK1M0)
 [![Email](https://img.shields.io/badge/Email-2E3440?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lastkimo)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/itsk1m0)
+[![Repositories](https://img.shields.io/badge/See%20all%20repositories-2E3440?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsK1M0?tab=repositories)
 
 </div>
 
