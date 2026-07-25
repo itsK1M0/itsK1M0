@@ -22,7 +22,7 @@ I'm building my career toward **IT infrastructure, cybersecurity, and cloud engi
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2000&pause=500&color=4B0000&center=true&vCenter=true&width=600&height=30&lines=01110010+01101111+01101111+01110100" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=1800&pause=400&color=4B0000&center=true&vCenter=true&width=600&height=30&lines=0x72+0x6f+0x6f+0x74;0x6b+0x69+0x6d+0x6f;access_granted...;root%40kimo%3A~%23" alt="typing" />
 </div>
 
 <br>
