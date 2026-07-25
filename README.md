@@ -17,12 +17,12 @@ I'm building my career toward **IT infrastructure, cybersecurity, and cloud engi
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4B0000&center=true&vCenter=true&width=600&lines=whoami;Oussama+El+Gourjt;Aspiring+Infrastructure+%26+Cybersecurity+Engineer;Building+secure%2C+scalable+systems...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=4B0000&center=true&vCenter=true&width=600&lines=whoami;Oussama+El+Gourjt;Aspiring+Infrastructure+%26+Cybersecurity+Engineer;Building+secure%2C+scalable+systems...;%3E+echo+%22kimo+was+here%22)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:4B0000&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4B0000&height=100&section=header" width="100%" />
 </div>
 
 <br>
