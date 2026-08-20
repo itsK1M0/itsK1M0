@@ -2,7 +2,7 @@
 
 # Oussama El Gourjt
 
-### IT Support · Aspiring Infrastructure & Cybersecurity Engineer
+### Aspiring Infrastructure & Cybersecurity Specialist 
 
 <br>
 
